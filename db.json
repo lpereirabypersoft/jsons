@@ -6,15 +6,13 @@
             "id":3,
             "nombre":"Fulano Sultado",
             "ruc": "13143-2",
-            "ci": 1232132,
-            "documentos":[]
+            "ci": 1232132
          },
          {
             "id":4,
             "nombre":"Mengano Sultano",
             "ruc": "654654-2",
-            "ci": 513213,
-            "documentos":[]
+            "ci": 513213
          }
       ]  
    }
