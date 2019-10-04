@@ -1,16 +1,14 @@
 {
    "profesionales":{
-      "listado":{
-         "cantidad":2,
-         "lista":[
-            {
-               "id":3,
-               "nombre":"Fulano Sultado",
-               "ruc": "13143-2",
-               "ci": 1232132,
-               "documentos":[]
-            }
-         ]  
-      }
+      "cantidad":2,
+      "lista":[
+         {
+            "id":3,
+            "nombre":"Fulano Sultado",
+            "ruc": "13143-2",
+            "ci": 1232132,
+            "documentos":[]
+         }
+      ]  
    }
 }
