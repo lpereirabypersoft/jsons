@@ -68,6 +68,15 @@
                   "id_cliente": 3
                }
             ]
+         },
+         {
+            "usuario":{
+               "id":4,
+               "nombre":"Mengano Sultano",
+               "ruc": "654654-2",
+               "ci": 513213
+            },
+            "agendas":[]
          }
       ]
    }
