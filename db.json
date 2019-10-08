@@ -71,11 +71,11 @@
          },
          {
             "usuario":{
-               "id":4,
-               "nombre":"Mengano Sultano",
-               "ruc": "654654-2",
-               "ci": 513213
-            },
+               "id":5,
+               "nombre":"Personal de prueba",
+               "ruc": "21321-2",
+               "ci": 21321
+            }
             "agendas":[]
          }
       ]
