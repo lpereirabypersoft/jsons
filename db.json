@@ -15,5 +15,54 @@
             "ci": 513213
          }
       ]  
+   },
+   "agendas":{
+      "cantidad":10,
+      "lista":[
+         {
+            "usuario":{
+               "id":3,
+               "nombre":"Fulano Sultado",
+               "ruc": "13143-2",
+               "ci": 1232132
+            },
+            "agendas":[
+               {
+                  "inicio": "2019-10-08 15:00",
+                  "fin": "2019-10-08 16:00",
+                  "descripcion": "Alineamiento de cejas",
+                  "id_cliente": 2
+               },
+               {
+                  "inicio": "2019-10-08 16:15",
+                  "fin": "2019-10-08 16:45",
+                  "descripcion": "Alineamiento de cejas 2",
+                  "id_cliente": 3
+               },
+            ]
+         },
+         {
+            "usuario":{
+               "id":4,
+               "nombre":"Mengano Sultano",
+               "ruc": "654654-2",
+               "ci": 513213
+            },
+            "agendas":[
+               {
+                  "inicio": "2019-10-08 11:00",
+                  "fin": "2019-10-08 12:00",
+                  "descripcion": "Alineamiento de cejas",
+                  "id_cliente": 2
+               },
+               {
+                  "inicio": "2019-10-08 08:00",
+                  "fin": "2019-10-08 08:30",
+                  "descripcion": "Alineamiento de cejas 2",
+                  "id_cliente": 3
+               },
+            ]
+         }
+      ]
    }
 }
