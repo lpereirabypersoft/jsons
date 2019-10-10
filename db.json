@@ -86,7 +86,7 @@
          {
             "id":3,
             "nombre":"Cliente 1",
-            "ci": 6545646,
+            "ci": "6545646",
             "ruc": "6545646-9",
             "imagen": "https://www.evaluandocrm.com/wp-content/uploads/2017/02/250-CRM-Objetivos-de-la-atención-al-cliente-04-563x353.png",
             "tipo_cliente": "CLIENTE NORMAL"
@@ -94,7 +94,7 @@
          {
             "id":4,
             "nombre":"Cliente 2",
-            "ci": 656688,
+            "ci": "656688",
             "ruc": "656688-9",
             "imagen": "https://www.evaluandocrm.com/wp-content/uploads/2017/02/250-CRM-Objetivos-de-la-atención-al-cliente-04-563x353.png",
             "tipo_cliente": "CLIENTE NORMAL"
@@ -102,7 +102,7 @@
          {
             "id":5,
             "nombre":"Cliente 3",
-            "ci": 31231,
+            "ci": "31231",
             "ruc": "564546-9",
             "imagen": "https://www.evaluandocrm.com/wp-content/uploads/2017/02/250-CRM-Objetivos-de-la-atención-al-cliente-04-563x353.png",
             "tipo_cliente": "CLIENTE NORMAL"
