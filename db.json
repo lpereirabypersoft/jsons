@@ -120,5 +120,18 @@
             "descripcion":"Descripción del cliente"
          }
       ]
+   },
+   "servicios":{
+      "cantidad":2,
+      "lista":[
+         {
+            "id": 2,
+            "nombre": "Depilación de cejas"
+         },
+         {
+            "id":3,
+            "nombre": "Alineamiento de cejas"
+         }
+      ]
    }
 }
