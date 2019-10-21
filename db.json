@@ -176,6 +176,18 @@
          "nombre":"Fulano Sultado",
          "ruc": "13143-2",
          "ci": 1232132
-      }
+      },
+      "recordatorios":[
+         {
+            "id":1, 
+            "nombre":"Popup", 
+            "tiempo":"20"
+         },
+         {
+            "id":2, 
+            "nombre":"Envio de correos", 
+            "tiempo":"60"
+         }
+      ]
    }
 }
