@@ -34,12 +34,14 @@
             },
             "agendas":[
                {
+                  "id":54,
                   "inicio": "2019-10-08 15:00",
                   "fin": "2019-10-08 16:00",
                   "descripcion": "Alineamiento de cejas",
                   "id_cliente": 2
                },
                {
+                  "id":55,
                   "inicio": "2019-10-08 16:15",
                   "fin": "2019-10-08 16:45",
                   "descripcion": "Alineamiento de cejas 2",
@@ -56,12 +58,14 @@
             },
             "agendas":[
                {
+                  "id":64,
                   "inicio": "2019-10-08 11:00",
                   "fin": "2019-10-08 12:00",
                   "descripcion": "Alineamiento de cejas",
                   "id_cliente": 2
                },
                {
+                  "id":65,
                   "inicio": "2019-10-08 08:00",
                   "fin": "2019-10-08 08:30",
                   "descripcion": "Alineamiento de cejas 2",
