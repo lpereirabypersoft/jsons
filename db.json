@@ -137,5 +137,12 @@
             "nombre": "Alineamiento de cejas"
          }
       ]
+   },
+   "agenda":{
+      "id":64,
+      "inicio": "2019-10-08 11:00",
+      "fin": "2019-10-08 12:00",
+      "descripcion": "Alineamiento de cejas",
+      "id_cliente": 2
    }
 }
