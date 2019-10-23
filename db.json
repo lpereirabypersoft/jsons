@@ -26,7 +26,7 @@
       "cantidad":10,
       "lista":[
          {
-            "usuario":{
+            "profesional":{
                "id":3,
                "nombre":"Fulano Sultado",
                "ruc": "13143-2",
@@ -52,7 +52,7 @@
             ]
          },
          {
-            "usuario":{
+            "profesional":{
                "id":4,
                "nombre":"Mengano Sultano",
                "ruc": "654654-2",
@@ -78,7 +78,7 @@
             ]
          },
          {
-            "usuario":{
+            "profesional":{
                "id":5,
                "nombre":"Personal de prueba",
                "ruc": "21321-2",
