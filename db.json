@@ -50,41 +50,6 @@
                   "id_profesional": 3
                }
             ]
-         },
-         {
-            "profesional":{
-               "id":4,
-               "nombre":"Mengano Sultano",
-               "ruc": "654654-2",
-               "ci": 513213
-            },
-            "agendas":[
-               {
-                  "id":64,
-                  "inicio": "2019-10-08 11:00",
-                  "fin": "2019-10-08 12:00",
-                  "descripcion": "Alineamiento de cejas",
-                  "id_cliente": 2,
-                  "id_profesional": 4
-               },
-               {
-                  "id":65,
-                  "inicio": "2019-10-08 08:00",
-                  "fin": "2019-10-08 08:30",
-                  "descripcion": "Alineamiento de cejas 2",
-                  "id_cliente": 3,
-                  "id_profesional": 4
-               }
-            ]
-         },
-         {
-            "profesional":{
-               "id":5,
-               "nombre":"Personal de prueba",
-               "ruc": "21321-2",
-               "ci": 21321
-            },
-            "agendas":[]
          }
       ]
    },
