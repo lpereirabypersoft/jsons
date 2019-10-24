@@ -19,6 +19,12 @@
             "nombre":"Personal de prueba",
             "ruc": "21321-2",
             "ci": 21321
+         },
+         {
+            "id":6,
+            "nombre":"Personal de prueba 2",
+            "ruc": "21321-2",
+            "ci": 21321
          }
       ]  
    },
