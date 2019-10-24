@@ -143,8 +143,8 @@
       "cliente":{
          "id":3,
          "nombre":"Cliente 1",
-         "ci": "6545646",
-         "ruc": "6545646-9",
+         "ci": "65453646",
+         "ruc": "65453646-9",
          "imagen": "https://www.evaluandocrm.com/wp-content/uploads/2017/02/250-CRM-Objetivos-de-la-atención-al-cliente-04-563x353.png",
          "tipo_cliente": "CLIENTE NORMAL",
          "fecha_nacimiento": "1991-08-03",
