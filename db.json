@@ -133,7 +133,19 @@
             "correos":["hola@gmail.com","agers@gmail.com"],
             "descripcion":"Descripción del cliente"
          }
-      ]
+      ],
+      "cliente":{
+         "id":3,
+         "nombre":"Cliente 1",
+         "ci": "6545646",
+         "ruc": "6545646-9",
+         "imagen": "https://www.evaluandocrm.com/wp-content/uploads/2017/02/250-CRM-Objetivos-de-la-atención-al-cliente-04-563x353.png",
+         "tipo_cliente": "CLIENTE NORMAL",
+         "fecha_nacimiento": "1991-08-03",
+         "whatsapp":"0981234567",
+         "correos":["hola@gmail.com","agers@gmail.com"],
+         "descripcion":"Descripción del cliente"
+      }
    },
    "servicios":{
       "cantidad":2,
