@@ -174,19 +174,6 @@
        "porcentaje": 30,
        "comision": 1500000
    },
-   "servicios":{
-      "cantidad":2,
-      "lista":[
-         {
-            "id": 2,
-            "nombre": "Depilación de cejas"
-         },
-         {
-            "id":3,
-            "nombre": "Alineamiento de cejas"
-         }
-      ]
-   },
    "agenda":{
       "id":64,
       "inicio": "2019-10-08 11:00",
