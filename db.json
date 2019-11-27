@@ -147,6 +147,33 @@
          "descripcion":"Descripción del cliente"
       }
    },
+   "informe":{
+       "profesional":{
+           "id":4,
+           "nombre":"Mengano Sultano",
+           "ruc": "654654-2",
+           "ci": 513213
+       },
+       "titulo": "Total Enero 2019",
+       "servicios":[
+           {
+               "id": 2,
+               "nombre": "Depilación de cejas",
+               "cantidad": 5,
+               "total":2000000
+           },
+           {
+               "id":3,
+               "nombre": "Alineamiento de cejas",
+               "cantidad": 8,
+               "total":3000000
+           }
+       ],
+       "cantidades": 5,
+       "totales": 500000,
+       "porcentaje": 30,
+       "comision": 1500000
+   },
    "servicios":{
       "cantidad":2,
       "lista":[
@@ -179,16 +206,7 @@
          "correos":["hola@gmail.com","agers@gmail.com"],
          "descripcion":"Descripción del cliente"
       },
-      "servicios":[
-         {
-            "id": 2,
-            "nombre": "Depilación de cejas"
-         },
-         {
-            "id":3,
-            "nombre": "Alineamiento de cejas"
-         }
-      ],
+      
       "profesional":{
          "id":3,
          "nombre":"Fulano Sultado",
